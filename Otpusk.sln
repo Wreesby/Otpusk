@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otpusk", "Otpusk.csproj", "{ED81A00F-F337-49F6-BA14-7D905B3BA080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED81A00F-F337-49F6-BA14-7D905B3BA080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED81A00F-F337-49F6-BA14-7D905B3BA080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED81A00F-F337-49F6-BA14-7D905B3BA080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED81A00F-F337-49F6-BA14-7D905B3BA080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82AD34FA-D9D1-44AC-8C82-73EDEED4095D}
+	EndGlobalSection
+EndGlobal
